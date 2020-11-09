@@ -1,0 +1,30 @@
+Started
+      Local time: Tue 2020-09-22 23:58:42 EDT
+  Universal time: Wed 2020-09-23 03:58:42 UTC
+        RTC time: Wed 2020-09-23 03:58:42
+       Time zone: America/New_York (EDT, -0400)
+     NTP enabled: yes
+NTP synchronized: yes
+ RTC in local TZ: no
+      DST active: yes
+ Last DST change: DST began at
+                  Sun 2020-03-08 01:59:59 EST
+                  Sun 2020-03-08 03:00:00 EDT
+ Next DST change: DST ends (the clock jumps one hour backwards) at
+                  Sun 2020-11-01 01:59:59 EDT
+                  Sun 2020-11-01 01:00:00 EST
+Ended
+      Local time: Tue 2020-09-22 23:58:52 EDT
+  Universal time: Wed 2020-09-23 03:58:52 UTC
+        RTC time: Wed 2020-09-23 03:58:52
+       Time zone: America/New_York (EDT, -0400)
+     NTP enabled: yes
+NTP synchronized: yes
+ RTC in local TZ: no
+      DST active: yes
+ Last DST change: DST began at
+                  Sun 2020-03-08 01:59:59 EST
+                  Sun 2020-03-08 03:00:00 EDT
+ Next DST change: DST ends (the clock jumps one hour backwards) at
+                  Sun 2020-11-01 01:59:59 EDT
+                  Sun 2020-11-01 01:00:00 EST

@@ -1,0 +1,63 @@
+Started
+      Local time: Sun 2020-10-25 22:10:38 EDT
+  Universal time: Mon 2020-10-26 02:10:38 UTC
+        RTC time: Mon 2020-10-26 02:10:38
+       Time zone: America/New_York (EDT, -0400)
+     NTP enabled: yes
+NTP synchronized: yes
+ RTC in local TZ: no
+      DST active: yes
+ Last DST change: DST began at
+                  Sun 2020-03-08 01:59:59 EST
+                  Sun 2020-03-08 03:00:00 EDT
+ Next DST change: DST ends (the clock jumps one hour backwards) at
+                  Sun 2020-11-01 01:59:59 EDT
+                  Sun 2020-11-01 01:00:00 EST
+----Task 1
+ mu=1000
+map                   	all	0.2539
+recip_rank            	all	0.6893
+P_10                  	all	0.4281
+ndcg_cut_5            	all	0.4609
+ lambda=0.5
+map                   	all	0.2277
+recip_rank            	all	0.5942
+P_10                  	all	0.3871
+ndcg_cut_5            	all	0.4013
+ wo
+map                   	all	0.1601
+recip_rank            	all	0.5753
+P_10                  	all	0.3502
+ndcg_cut_5            	all	0.3778
+----Task 2
+ 1)
+map                   	all	0.1947
+recip_rank            	all	0.6124
+P_10                  	all	0.3691
+ 2)
+map                   	all	0.2976
+recip_rank            	all	0.6571
+P_10                  	all	0.4542
+ 3)
+map                   	all	0.2284
+recip_rank            	all	0.6019
+P_10                  	all	0.3847
+ 4)
+map                   	all	0.2695
+recip_rank            	all	0.6777
+P_10                  	all	0.4470
+Ended
+      Local time: Sun 2020-10-25 22:55:12 EDT
+  Universal time: Mon 2020-10-26 02:55:12 UTC
+        RTC time: Mon 2020-10-26 02:55:12
+       Time zone: America/New_York (EDT, -0400)
+     NTP enabled: yes
+NTP synchronized: yes
+ RTC in local TZ: no
+      DST active: yes
+ Last DST change: DST began at
+                  Sun 2020-03-08 01:59:59 EST
+                  Sun 2020-03-08 03:00:00 EDT
+ Next DST change: DST ends (the clock jumps one hour backwards) at
+                  Sun 2020-11-01 01:59:59 EDT
+                  Sun 2020-11-01 01:00:00 EST
